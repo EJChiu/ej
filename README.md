@@ -10,6 +10,3 @@ Product Manager & Builder ^⸝⸝･֊･⸝⸝^
 - 🎨 **Creative Exploration:** Experimenting with **Blender** & **three.js**
 - 🧠 Background in **Philosophy** and **Arts Management**  (๑•́ -•̀)
 - 🚀 Building [Koreality](https://github.com/EJChiu/Koreality) to bridge online fandom experiences with the offline world.
-
----
-![EJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EJChiu&show_icons=true&theme=transparent&hide_border=true)
